@@ -1,0 +1,9 @@
+class student{
+    
+    public static void main(String[]args){
+        random = [2,3,4,8,6,8,7]
+        for(i = 0; i<random.length; i++){
+            System.out.println(random[i])
+        }
+    
+}
